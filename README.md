@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Matt. I rarely know what's going on, but I'm usually down to help figure things out.
+
+When I'm not writing code, I'm probably making something art-adjacent. You can see that stuff on Instagram at [@wheezybatman](https://www.instagram.com/wheezybatman/)
+
 <!--
 **matt-wiley/matt-wiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
