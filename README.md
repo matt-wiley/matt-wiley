@@ -2,6 +2,8 @@
 
 I'm Matt. I rarely know what's going on, but I'm usually down to help figure things out.
 
+You can find my latest resume here: https://matt-wiley.github.io
+
 When I'm not writing code, I'm probably making something art-adjacent. You can see that stuff on Instagram at [@matt.wiley.person](https://www.instagram.com/matt.wiley.person/)
 
 <!--
